@@ -1,0 +1,5 @@
+{
+  "name": "B2B",
+  "description": "A B2B platform connecting pharmacies and warehouses for real-time drug price comparison, stock management, and a peer-to-peer dead stock marketplace.",
+  "requestFramePermissions": []
+}
